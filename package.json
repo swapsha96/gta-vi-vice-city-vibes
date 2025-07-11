@@ -1,9 +1,9 @@
 {
   "name": "gta-vi-vice-city-vibes",
   "displayName": "GTA VI Vice City Vibes",
-  "publisher": "swapnil",
+  "publisher": "swapsha96",
   "description": "A Miami‑Vice/GTA VI inspired dark theme with neon blues and magenta accents.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -19,7 +19,7 @@
     "theme": "dark"
   },
   "sponsor": {
-    "url": "https://github.com/sponsors/swapnil"
+    "url": "https://github.com/sponsors/swapsha96"
   },
   "contributes": {
     "themes": [
