@@ -4,7 +4,7 @@
   "colors": {
     // Editor
     "editor.background": "#101018",
-    "editor.foreground": "#EFEFEF",
+    "editor.foreground": "#DADADA",
     "editor.selectionBackground": "#F44B9C55",
     "editor.lineHighlightBackground": "#1E2B7422",
     "editorCursor.foreground": "#00F0FF",
@@ -133,7 +133,7 @@
     {
       "scope": ["variable", "identifier", "meta.definition.variable.name"],
       "settings": {
-        "foreground": "#EFEFEF"
+        "foreground": "#D26AC2"
       }
     },
     {
