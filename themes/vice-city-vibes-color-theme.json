@@ -68,11 +68,12 @@
     "editorHint.foreground": "#8993DC",
 
     // Quick Input
-    "quickInput.background": "#1E2B74",
-    "quickInput.foreground": "#F44B9C",
+    "quickInput.background": "#141A3A",
+    "quickInput.foreground": "#FFF9CB",
     "quickInputTitle.background": "#101018",
+
     "pickerGroup.foreground": "#00F0FF",
-    "pickerGroup.border": "#3060CE",
+    "pickerGroup.border": "#1E2B74",
 
     // Input Fields
     "input.background": "#0D0D13",
@@ -109,7 +110,11 @@
     "titleBar.inactiveForeground": "#5865A2",
     "titleBar.border": "#1A2145",
     "window.activeBorder": "#3060CE",
-    "window.inactiveBorder": "#0C0C14"
+    "window.inactiveBorder": "#0C0C14",
+
+    // Scrollbar
+    "breadcrumb.foreground": "#5865A2",
+    "breadcrumb.activeSelectionForeground": "#F3A974"
   },
   "tokenColors": [
     {
@@ -134,7 +139,7 @@
     {
       "scope": ["function", "entity.name.function"],
       "settings": {
-        "foreground": "#3060CE"
+        "foreground": "#FFFF7E",
       }
     },
     {
