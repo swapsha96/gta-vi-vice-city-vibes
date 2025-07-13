@@ -12,8 +12,8 @@
     "editorLineNumber.activeForeground": "#F44B9C",
 
     // Tabs
-    "tab.activeBackground": "#22389A",
-    "tab.activeForeground": "#F44B9C",
+    "tab.activeBackground": "#141A3A",
+    "tab.activeForeground": "#F3A974",
     "tab.inactiveBackground": "#0C0C14",
     "tab.inactiveForeground": "#5865A2",
     "tab.border": "#1E2B74",
@@ -30,9 +30,9 @@
 
     // Activity Bar
     "activityBar.background": "#0A0A12",
-    "activityBar.foreground": "#F44B9C",
+    "activityBar.foreground": "#F67E85",
     "activityBar.inactiveForeground": "#F44B9C88",
-    "activityBarBadge.background": "#00F0FF",
+    "activityBarBadge.background": "#91DFEC",
     "activityBarBadge.foreground": "#0A0A0A",
     "activityBar.activeBorder": "#F44B9C",
 
@@ -103,11 +103,11 @@
     "icon.foreground": "#F44B9C",
 
     // Title Bar
-    "titleBar.activeBackground": "#1E2B74",
+    "titleBar.activeBackground": "#10162F",
     "titleBar.activeForeground": "#EFEFEF",
     "titleBar.inactiveBackground": "#0C0C14",
     "titleBar.inactiveForeground": "#5865A2",
-    "titleBar.border": "#854D7E",
+    "titleBar.border": "#1A2145",
     "window.activeBorder": "#3060CE",
     "window.inactiveBorder": "#0C0C14"
   },
@@ -140,7 +140,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#854D7E",
+        "foreground": "#D26AC2",
         "fontStyle": "italic"
       }
     },
